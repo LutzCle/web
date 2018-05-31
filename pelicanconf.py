@@ -63,8 +63,9 @@ AUTHOR_FEED_RSS = None
 
 
 # Blogroll
-LINKS = (('IAM | DFKI', 'http://www.dfki.de/web/research/iam'),
-        ('DIMA | TU Berlin', 'http://www.dima.tu-berlin.de'),)
+LINKS = (('IAM | DFKI', 'https://www.dfki.de/web/research/iam'),
+        ('DIMA | TU Berlin', 'https://www.dima.tu-berlin.de'),
+        ('ORCID', 'https://orcid.org/0000-0002-6193-4734'),)
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/clemenslutz'),
