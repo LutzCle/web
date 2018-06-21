@@ -98,16 +98,20 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 <dl markdown=1 class="dl-horizontal">
 <dt>
 <span class="label label-primary">DaMoN'18</span><br class="hidden-xs" />
-<a href="pdfs/damon_2018_efficient_k-means_on_gpus.pdf"><i class="fa fa-file-pdf-o"></i></a>
+<a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
+<a class="label label-default" href="https://github.com/TU-Berlin-DIMA/CL-kmeans"><i class="fa fa-github"></i>&nbsp;Code</a>
+<br />
+<a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus_slides.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
+<a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus_poster.pdf"><i class="fa fa-comments"></i>&nbsp;Poster</a>
 </dt>
 <dd>
 <strong>Efficient k-Means on GPUs</strong>
-Clemens Lutz, Sebastian Breß, Tilmann Rabl, Steffen Zeuch, Volker Markl, to appear in the 14th <em>ACM Int. Workshop on Data Management on New Hardware (DaMoN'18), colocated with SIGMOD/PODS</em>, Houston, TX, USA, June 11th, 2018.
+Clemens Lutz, Sebastian Breß, Tilmann Rabl, Steffen Zeuch, Volker Markl, in the 14th <em>ACM Int. Workshop on Data Management on New Hardware (DaMoN'18), colocated with SIGMOD/PODS</em>, Houston, TX, USA, June 11th, 2018.
 </dd>
 
 <dt>
 <span class="label label-primary">ICDCS'15</span><br class="hidden-xs" />
-<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7164952"><i class="fa fa-external-link"></i></a>
+<a class="label label-default" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7164952"><i class="fa fa-external-link"></i>&nbsp;Paper</a>
 </dt>
 <dd>
 <strong>RStore: A Direct-Access DRAM-based Data Store</strong>
@@ -116,7 +120,7 @@ Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Clemens Lutz, Martin Schmatz, 
 
 <dt>
 <span class="label label-primary">MSc 2014</span><br class="hidden-xs" />
-<a href="pdfs/clemens_lutz_msc_thesis.pdf"><i class="fa fa-file-pdf-o"></i></a>
+<a class="label label-default" href="pdfs/clemens_lutz_msc_thesis.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
 </dt>
 <dd>
 <strong>Carafe: High-Performance, In-Memory Graph Processing with RDMA.</strong>
