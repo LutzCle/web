@@ -97,6 +97,21 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 
 <dl markdown=1 class="dl-horizontal">
 <dt>
+<span class="label label-primary">Datenbanken Spektrum</span><br class="hidden-xs" />
+<a class="label label-default" href="pdfs/datenbanken_spektrum_2018_efficient_and_scalable_kmeans_on_gpus_accepted_manuscript.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
+<a class="label label-default" href="https://github.com/TU-Berlin-DIMA/CL-kmeans"><i class="fa fa-github"></i>&nbsp;Code</a>
+</dt>
+<dd>
+<strong>
+<a href="#" data-toggle="tooltip" title="This is a post-peer-review, pre-copyedit version of an article published in Datenbanken Spektrum. The final authenticated version will be available online at Springer.">
+Efficient and Scalable k-Means on GPUs
+</a>
+</strong>
+Clemens Lutz, Sebastian Breß, Tilmann Rabl, Steffen Zeuch, Volker Markl, accepted in <em>Datenbanken Spektrum</em>.
+<!--The final authenticated version is available online at: http://dx.doi.org/[insert DOI]-->
+</dd>
+
+<dt>
 <span class="label label-primary">DaMoN'18</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 <a class="label label-default" href="https://github.com/TU-Berlin-DIMA/CL-kmeans"><i class="fa fa-github"></i>&nbsp;Code</a>
