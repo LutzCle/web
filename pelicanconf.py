@@ -71,3 +71,13 @@ LINKS = (('IAM | DFKI', 'https://www.dfki.de/web/research/iam'),
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/clemenslutz'),
           ('github', 'https://github.com/lutzcle'),)
 
+# Pelican plugins
+PLUGIN_PATHS = ['pelican-plugins', ]
+
+# See issue: https://github.com/getpelican/pelican-themes/issues/482#issuecomment-346653264
+PLUGINS = ['i18n_subsites', ]
+
+# Jinja settings
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
