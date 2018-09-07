@@ -103,12 +103,11 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 </dt>
 <dd>
 <strong>
-<a href="#" data-toggle="tooltip" title="This is a post-peer-review, pre-copyedit version of an article published in Datenbanken Spektrum. The final authenticated version will be available online at Springer.">
+<a href="#" data-toggle="tooltip" title="This is a post-peer-review, pre-copyedit version of an article published in Datenbanken Spektrum. The final authenticated version is available online at: https://doi.org/10.1007/s13222-018-0293-x">
 Efficient and Scalable k-Means on GPUs
 </a>
 </strong>
-Clemens Lutz, Sebastian Breß, Tilmann Rabl, Steffen Zeuch, Volker Markl, accepted in <em>Datenbanken Spektrum</em>.
-<!--The final authenticated version is available online at: http://dx.doi.org/[insert DOI]-->
+Clemens Lutz, Sebastian Breß, Tilmann Rabl, Steffen Zeuch, Volker Markl, in <a href="https://doi.org/10.1007/s13222-018-0293-x"><em>Datenbanken Spektrum 2018</em></a>.
 </dd>
 
 <dt>
