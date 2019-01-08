@@ -97,7 +97,7 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 
 <dl markdown=1 class="dl-horizontal">
 <dt>
-<span class="label label-primary">PVLDB</span><br class="hidden-xs" />
+<span class="label label-primary">PVLDB'19</span><br class="hidden-xs" />
 <!-- <a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a> -->
 </dt>
 <dd>
