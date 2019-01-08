@@ -40,7 +40,7 @@ during my Bachelor's studies at ETH Zurich.
 
 </div>
 <div class="col-xs-4 col-sm-6 col-md-3">
-<img alt="Clemens Lutz" src="{filename}/images/clemens_image.jpg" {: class="img-thumbnail center-block"}>
+<img alt="Clemens Lutz" src="{static}/images/clemens_image.jpg" {: class="img-thumbnail center-block"}>
 </div>
 <div class="col-xs-8 col-sm-6 col-md-4">
 <div class="row">
