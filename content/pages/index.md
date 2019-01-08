@@ -97,6 +97,16 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 
 <dl markdown=1 class="dl-horizontal">
 <dt>
+<span class="label label-primary">PVLDB</span><br class="hidden-xs" />
+<!-- <a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a> -->
+</dt>
+<dd>
+<strong>Analyzing Efficient Stream Processing on Modern Hardware</strong>
+Steffen Zeuch, Bonaventura Del Monte, Jeyhun Karimov, Clemens Lutz, Manuel Renz, Jonas Traub, Sebastian Breß, Tilmann Rabl, Volker Markl, to appear in
+<em>The Proceedings of the VLDB Endowment (PVLDB'19), Los Angeles, CA, USA, August 26th-30th, 2019.
+</dd>
+
+<dt>
 <span class="label label-primary">Datenbanken Spektrum</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/datenbanken_spektrum_2018_efficient_and_scalable_kmeans_on_gpus_accepted_manuscript.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 <a class="label label-default" href="https://github.com/TU-Berlin-DIMA/CL-kmeans"><i class="fa fa-github"></i>&nbsp;Code</a>
