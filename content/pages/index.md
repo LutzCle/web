@@ -145,6 +145,7 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014
 ***
 #### Teaching
 
+- **Databases Laboratory**, WS 2018, TU Berlin
 - **Information Systems and Data Analysis**, SS 2018, TU Berlin
 - **Databases Laboratory**, WS 2017, TU Berlin
 - **Information Systems and Data Analysis**, SS 2017, TU Berlin
