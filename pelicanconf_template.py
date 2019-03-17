@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = False
 
 #### Theme settings ####
 # https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
-THEME = "pelican-themes/pelican-bootstrap3"
+THEME = "@pelican_themes@/pelican-bootstrap3"
 BOOTSTRAP_THEME = "paper"
 PYGMENTS_STYLE = "bw"
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -72,7 +72,7 @@ SOCIAL = (('linkedin', 'https://www.linkedin.com/in/clemenslutz'),
           ('github', 'https://github.com/lutzcle'),)
 
 # Pelican plugins
-PLUGIN_PATHS = ['pelican-plugins', ]
+PLUGIN_PATHS = ['@pelican_plugins@', ]
 
 # See issue: https://github.com/getpelican/pelican-themes/issues/482#issuecomment-346653264
 PLUGINS = ['i18n_subsites', ]
