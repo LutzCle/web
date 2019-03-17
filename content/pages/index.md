@@ -8,7 +8,7 @@ status: hidden
 <div class="col-xs-12 col-sm-12 col-md-8">
 
 PhD student and researcher at
-[German Research Center for Artificial Intelligence (DFKI)](http://www.dfki.de/web?set_language=en&cl=en)
+[German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/)
 mentored by
 [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl)
 and
@@ -22,13 +22,13 @@ Currently I am investigating automated variant generation from declarative queri
 
 Before coming to DFKI,
 I received my MSc degree from
-[ETH Zurich](https://www.ethz.ch)
+[ETH Zurich](https://www.ethz.ch/en.html)
 in collaboration with
 [IBM Research, Zurich](https://www.research.ibm.com/labs/zurich)
 under supervision of
-[Thomas R. Gross](http://www.lst.inf.ethz.ch/people/trg.html)
+[Thomas R. Gross](http://www.lst.inf.ethz.ch/people/personal-pages/trg.html)
 and
-[Animesh Trivedi](http://researcher.watson.ibm.com/researcher/view.php?person=zurich-atr).
+[Animesh Trivedi](https://animeshtrivedi.github.io).
 My Master's was preceded by an exchange at
 [Imperial College London](https://www.imperial.ac.uk),
 where I wrote my BSc thesis under supervision of

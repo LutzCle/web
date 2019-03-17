@@ -63,7 +63,7 @@ AUTHOR_FEED_RSS = None
 
 
 # Blogroll
-LINKS = (('IAM | DFKI', 'https://www.dfki.de/web/research/iam'),
+LINKS = (('IAM | DFKI', 'https://www.dfki.de/en/web/research/research-departments-and-groups/intelligent-analytics-for-massive-data/'),
         ('DIMA | TU Berlin', 'https://www.dima.tu-berlin.de'),
         ('ORCID', 'https://orcid.org/0000-0002-6193-4734'),)
 
