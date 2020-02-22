@@ -15,9 +15,8 @@ and
 [Sebastian Breß](http://www.user.tu-berlin.de/sebastian.bress).
 {: class="lead text-justify"}
 
-My research interests are data management using modern hardware,
-and distributed systems.
-Currently I am investigating automated variant generation from declarative queries for heterogeneous processors.
+My research interests are data management using modern hardware and distributed systems.
+Currently I am investigating how we can use fast, next-generation interconnects such as NVLink to scale data management on GPUs.
 {: class="text-justify"}
 
 Before coming to DFKI,
