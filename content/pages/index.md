@@ -155,7 +155,11 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014
 ***
 #### Teaching
 
+- **Information Systems and Data Analysis**, SS 2020, TU Berlin
+- **In-Memory Databases On Modern Hardware**, SS 2020, TU Berlin
+- **Databases Laboratory**, WS 2019, TU Berlin
 - **Information Systems and Data Analysis**, SS 2019, TU Berlin
+- **In-Memory Databases On Modern Hardware**, SS 2019, TU Berlin
 - **Databases Laboratory**, WS 2018, TU Berlin
 - **Information Systems and Data Analysis**, SS 2018, TU Berlin
 - **Databases Laboratory**, WS 2017, TU Berlin
