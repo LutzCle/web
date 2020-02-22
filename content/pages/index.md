@@ -97,12 +97,12 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 <dl markdown=1 class="dl-horizontal">
 <dt>
 <span class="label label-primary">PVLDB'19</span><br class="hidden-xs" />
-<!-- <a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a> -->
+<a class="label label-default" href="pdfs/pvldb_2019_analyzing_efficient_stream_processing.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 </dt>
 <dd>
 <strong>Analyzing Efficient Stream Processing on Modern Hardware</strong>
-Steffen Zeuch, Bonaventura Del Monte, Jeyhun Karimov, Clemens Lutz, Manuel Renz, Jonas Traub, Sebastian Breß, Tilmann Rabl, Volker Markl, to appear in
-<em>The Proceedings of the VLDB Endowment (PVLDB'19), Los Angeles, CA, USA, August 26th-30th, 2019.
+Steffen Zeuch, Bonaventura Del Monte, Jeyhun Karimov, Clemens Lutz, Manuel Renz, Jonas Traub, Sebastian Breß, Tilmann Rabl, Volker Markl, in
+<em>The Proceedings of the VLDB Endowment, Vol. 12, No. 5, Los Angeles, CA, USA, August 26th-30th, 2019.
 </dd>
 
 <dt>
