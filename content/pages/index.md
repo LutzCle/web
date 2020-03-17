@@ -96,6 +96,16 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 
 <dl markdown=1 class="dl-horizontal">
 <dt>
+<span class="label label-primary">SIGMOD'20</span><br class="hidden-xs" />
+<!-- <a class="label label-default" href="pdfs/pvldb_2019_analyzing_efficient_stream_processing.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a> -->
+</dt>
+<dd>
+<strong>Pump Up the Volume: Processing Large Data on GPUs with Fast Interconnects</strong>
+Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl, to appear in the
+<em>ACM International Conference on Management of Data, June 14–19, 2020, Portland, OR, USA.
+</dd>
+
+<dt>
 <span class="label label-primary">PVLDB'19</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/pvldb_2019_analyzing_efficient_stream_processing.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 </dt>
