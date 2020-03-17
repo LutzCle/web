@@ -166,7 +166,17 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014
 
 ##### Thesis Supervision
 
-- **Phillip Grote**: [Lock-based Data Structures on GPUs with Independent Thread Scheduling](pdfs/bsc_thesis_phillip_grote.pdf)
+<dl markdown=1 class="dl-horizontal">
+
+<dt>
+<a class="label label-default" href="pdfs/bsc_thesis_phillip_grote.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
+</dt>
+<dd>
+Lock-based Data Structures on GPUs with Independent Thread Scheduling.
+<strong>Phillip Grote</strong>, BSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, February 2020
+</dd>
+
+</dl>
 
 ##### Teaching
 
