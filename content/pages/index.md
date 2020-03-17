@@ -97,7 +97,7 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 <dl markdown=1 class="dl-horizontal">
 <dt>
 <span class="label label-primary">SIGMOD'20</span><br class="hidden-xs" />
-<!-- <a class="label label-default" href="pdfs/pvldb_2019_analyzing_efficient_stream_processing.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a> -->
+<a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 </dt>
 <dd>
 <strong>Pump Up the Volume: Processing Large Data on GPUs with Fast Interconnects</strong>
