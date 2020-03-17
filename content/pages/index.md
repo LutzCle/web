@@ -153,7 +153,7 @@ Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Clemens Lutz, Martin Schmatz, 
 
 <dt>
 <span class="label label-primary">MSc 2014</span><br class="hidden-xs" />
-<a class="label label-default" href="pdfs/clemens_lutz_msc_thesis.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
+<a class="label label-default" href="pdfs/msc_thesis_clemens_lutz.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
 </dt>
 <dd>
 <strong>Carafe: High-Performance, In-Memory Graph Processing with RDMA.</strong>
@@ -162,7 +162,13 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014
 </dl>
 
 ***
-#### Teaching
+#### Theses & Teaching
+
+##### Thesis Supervision
+
+- **Phillip Grote**: [Lock-based Data Structures on GPUs with Independent Thread Scheduling](pdfs/bsc_thesis_phillip_grote.pdf)
+
+##### Teaching
 
 - **Information Systems and Data Analysis**, SS 2020, TU Berlin
 - **In-Memory Databases On Modern Hardware**, SS 2020, TU Berlin
