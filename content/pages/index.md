@@ -98,10 +98,10 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 <dt>
 <span class="label label-primary">SIGMOD'20</span><br class="hidden-xs" />
 <a class="label label-warning" href="https://sigmod2020.org/sigmod_awards.shtml"><i class="fa fa-star"></i>&nbsp;Best Paper</a>
-<br />
+<br class="hidden-xs" />
 <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 <a class="label label-default" href="https://e2data.eu/blog/fast-gpu-interconnects"><i class="fa fa-pencil"></i>&nbsp;Blog</a>
-<br />
+<br class="hidden-xs" />
 <a class="label label-default" href="https://youtu.be/HAFBkNLGOhI"><i class="fa fa-youtube-play"></i>&nbsp;YouTube</a>
 <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects_slides.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
 </dt>
@@ -139,7 +139,7 @@ Clemens Lutz, Sebastian Breß, Tilmann Rabl, Steffen Zeuch, Volker Markl, in <a 
 <span class="label label-primary">DaMoN'18</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 <a class="label label-default" href="https://github.com/TU-Berlin-DIMA/CL-kmeans"><i class="fa fa-github"></i>&nbsp;Code</a>
-<br />
+<br class="hidden-xs" />
 <a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus_slides.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
 <a class="label label-default" href="pdfs/damon_2018_efficient_k-means_on_gpus_poster.pdf"><i class="fa fa-comments"></i>&nbsp;Poster</a>
 </dt>
