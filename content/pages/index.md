@@ -100,6 +100,7 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 <a class="label label-default" href="https://e2data.eu/blog/fast-gpu-interconnects"><i class="fa fa-pencil"></i>&nbsp;Blog</a>
 <br />
+<a class="label label-default" href="https://youtu.be/HAFBkNLGOhI"><i class="fa fa-youtube-play"></i>&nbsp;YouTube</a>
 <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects_slides.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
 </dt>
 <dd>
