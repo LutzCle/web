@@ -175,6 +175,14 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+<a class="label label-default" href="pdfs/msc_thesis_alexander_kumaigorodski.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
+</dt>
+<dd>
+Fast CSV Loading Using GPUs and RDMA for In-Memory Data Processing.
+<strong>Alexander Kumaigorodski</strong>, MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, July 2020
+</dd>
+
+<dt>
 <a class="label label-default" href="pdfs/bsc_thesis_phillip_grote.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
 </dt>
 <dd>
