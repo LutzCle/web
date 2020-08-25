@@ -194,6 +194,7 @@ Lock-based Data Structures on GPUs with Independent Thread Scheduling.
 
 ##### Teaching
 
+- **Big Data Analytics Seminar**, WS 2020, TU Berlin
 - **Information Systems and Data Analysis**, SS 2020, TU Berlin
 - **In-Memory Databases On Modern Hardware**, SS 2020, TU Berlin
 - **Databases Laboratory**, WS 2019, TU Berlin
