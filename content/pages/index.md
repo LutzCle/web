@@ -92,6 +92,70 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 <div class="col-sm-12">
 
 ***
+#### News
+
+<dl markdown=1 class="dl-horizontal">
+
+<dt>
+31 Jul 2020
+</dt>
+<dd>
+I gave a talk on <em>Processing Large Data on GPUs with Fast Interconnects</em>
+at the <a href="https://www.cwi.nl/research/groups/database-architectures">CWI
+Database Architectures group</a>. The talk is available on <a class="label
+label-default" href="https://youtu.be/fRaH4h7-45s"><i class="fa
+fa-youtube-play"></i>&nbsp;YouTube</a>.
+</dd>
+
+<dt>
+17 Jun 2020
+</dt>
+<dd>
+I presented our work on <a
+href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><em>Pump
+Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
+at <a href="https://www.sigmod2020online.org">SIGMOD'20</a>.  Check out the
+talk on <a class="label label-default"
+href="https://vimeo.com/441072118#t=2239s"><i class="fa
+fa-vimeo-square"></i>&nbsp;Vimeo</a> and the recording on <a class="label
+label-default" href="https://youtu.be/HAFBkNLGOhI"><i class="fa
+fa-youtube-play"></i>&nbsp;YouTube</a>.
+</dd>
+
+<dt>
+18 May 2020
+</dt>
+<dd>
+Our paper on <a
+href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><em>Pump
+Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
+received the <a
+href="https://sigmod.org/sigmod-awards/sigmod-best-paper-award"><strong>SIGMOD Best Paper
+Award</strong></a>.
+</dd>
+
+<dt>
+14 Mar 2020
+</dt>
+<dd>
+Our work on <a
+href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects_slides.pdf"><em>Pump
+Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
+has been <a href="https://sigmod2020.org"><strong>accepted at SIGMOD'20</strong></a>.
+</dd>
+
+<dt>
+6 Feb 2020
+</dt>
+<dd>
+I gave a talk on <em>Scalable GPU Co-Processing with Fast Interconnects</em> at
+the <a href="https://lsds.doc.ic.ac.uk">Imperial College Large-Scale Data &
+Systems Group</a>.
+</dd>
+
+</dl>
+
+***
 #### Publications
 
 <dl markdown=1 class="dl-horizontal">
