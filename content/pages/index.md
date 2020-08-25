@@ -108,7 +108,7 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 <dd>
 <strong>Pump Up the Volume: Processing Large Data on GPUs with Fast Interconnects</strong>
 Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl, to appear in the
-<em>ACM International Conference on Management of Data, June 14–19, 2020, Portland, OR, USA.
+<em>ACM International Conference on Management of Data</em>, June 14–19, 2020, Portland, OR, USA.
 </dd>
 
 <dt>
@@ -118,7 +118,7 @@ Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl, to app
 <dd>
 <strong>Analyzing Efficient Stream Processing on Modern Hardware</strong>
 Steffen Zeuch, Bonaventura Del Monte, Jeyhun Karimov, Clemens Lutz, Manuel Renz, Jonas Traub, Sebastian Breß, Tilmann Rabl, Volker Markl, in
-<em>The Proceedings of the VLDB Endowment, Vol. 12, No. 5, Los Angeles, CA, USA, August 26th-30th, 2019.
+<em>The Proceedings of the VLDB Endowment</em>, Vol. 12, No. 5, Los Angeles, CA, USA, August 26th-30th, 2019.
 </dd>
 
 <dt>
