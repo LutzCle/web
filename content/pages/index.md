@@ -126,7 +126,7 @@ Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
 <a href="https://www.sigmod2020online.org"><strong>at SIGMOD'20</strong></a>.
 Check out the talk on <a class="label label-default"
 href="https://vimeo.com/441072118#t=2239s"><i class="fa
-fa-vimeo-square"></i>&nbsp;Vimeo</a> and the recording on <a class="label
+fa-vimeo-square"></i>&nbsp;Vimeo</a> and my recording on <a class="label
 label-default" href="https://youtu.be/HAFBkNLGOhI"><i class="fa
 fa-youtube-play"></i>&nbsp;YouTube</a>.
 </dd>
