@@ -101,25 +101,43 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 </dt>
 <dd>
 I gave a talk on <em>Processing Large Data on GPUs with Fast Interconnects</em>
-at the <a href="https://www.cwi.nl/research/groups/database-architectures">CWI
-Database Architectures group</a>. The talk is available on <a class="label
-label-default" href="https://youtu.be/fRaH4h7-45s"><i class="fa
+at the <a
+href="https://www.cwi.nl/research/groups/database-architectures"><strong>CWI
+Database Architectures group</strong></a>. The talk is available on <a
+class="label label-default" href="https://youtu.be/fRaH4h7-45s"><i class="fa
 fa-youtube-play"></i>&nbsp;YouTube</a>.
+</dd>
+
+<dt>
+9 Jul 2020
+</dt>
+<dd>
+I gave a talk on <em>Processing Large Data on GPUs with Fast Interconnects</em>
+at <a href="https://www.snowflake.com"><strong>Snowflake</strong></a>.
 </dd>
 
 <dt>
 17 Jun 2020
 </dt>
 <dd>
-I presented our work on <a
+I <strong>presented</strong> our work on <a
 href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><em>Pump
 Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
-at <a href="https://www.sigmod2020online.org">SIGMOD'20</a>.  Check out the
-talk on <a class="label label-default"
+<a href="https://www.sigmod2020online.org"><strong>at SIGMOD'20</strong></a>.
+Check out the talk on <a class="label label-default"
 href="https://vimeo.com/441072118#t=2239s"><i class="fa
 fa-vimeo-square"></i>&nbsp;Vimeo</a> and the recording on <a class="label
 label-default" href="https://youtu.be/HAFBkNLGOhI"><i class="fa
 fa-youtube-play"></i>&nbsp;YouTube</a>.
+</dd>
+
+<dt>
+20 May 2020
+</dt>
+<dd>
+I gave a talk on <em>Processing Large Data on GPUs with Fast Interconnects</em>
+at the <a href="https://hpi.de/en/rabl/home.html"><strong>HPI Data Engineering
+Systems group</strong></a>.
 </dd>
 
 <dt>
@@ -149,8 +167,8 @@ has been <a href="https://sigmod2020.org"><strong>accepted at SIGMOD'20</strong>
 </dt>
 <dd>
 I gave a talk on <em>Scalable GPU Co-Processing with Fast Interconnects</em> at
-the <a href="https://lsds.doc.ic.ac.uk">Imperial College Large-Scale Data &
-Systems Group</a>.
+the <a href="https://lsds.doc.ic.ac.uk"><strong>Imperial College Large-Scale
+Data & Systems group</strong></a>.
 </dd>
 
 </dl>
