@@ -97,6 +97,16 @@ TU Berlin <i class="fa fa-caret-right"></i> EN 739
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+20 Nov 2020
+</dt>
+<dd>
+Our work on <a href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><em>Fast
+CSV Loading Using GPUs and RDMA for In-Memory Data Processing</em></a> has been
+<a href="https://sites.google.com/view/btw-2021-tud/"><strong>accepted at
+BTW'21</strong></a>.
+</dd>
+
+<dt>
 31 Jul 2020
 </dt>
 <dd>
@@ -178,6 +188,16 @@ Data & Systems group</strong></a>.
 
 <dl markdown=1 class="dl-horizontal">
 <dt>
+<span class="label label-primary">BTW'21</span><br class="hidden-xs" />
+<a class="label label-default" href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
+</dt>
+<dd>
+<strong>Fast CSV Loading Using GPUs and RDMA for In-Memory Data Processing</strong>
+Alexander Kumaigorodski, Clemens Lutz, Volker Markl, to appear in
+<em>Database Systems for Business, Technology and Web</em>, September 20–24, 2021, Dresden, Germany.
+</dd>
+
+<dt>
 <span class="label label-primary">SIGMOD'20</span><br class="hidden-xs" />
 <a class="label label-warning" href="https://sigmod2020.org/sigmod_awards.shtml"><i class="fa fa-star"></i>&nbsp;Best Paper</a>
 <br class="hidden-xs" />
@@ -189,7 +209,7 @@ Data & Systems group</strong></a>.
 </dt>
 <dd>
 <strong>Pump Up the Volume: Processing Large Data on GPUs with Fast Interconnects</strong>
-Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl, to appear in the
+Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl, in the
 <em>ACM International Conference on Management of Data</em>, June 14–19, 2020, Portland, OR, USA.
 </dd>
 
