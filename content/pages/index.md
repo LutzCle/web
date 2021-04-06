@@ -7,19 +7,22 @@ status: hidden
 <div markdown=1 class="row">
 <div class="col-xs-12 col-sm-12 col-md-8">
 
-PhD student and researcher at
-[German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/)
+PhD student and research associate at
+[TU Berlin](https://www.tu.berlin)
 mentored by
 [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl)
+and cooperating with
+[Tilmann Rabl](https://hpi.de/rabl/team/prof-dr-tilmann-rabl.html)
 and
-[Sebastian Breß](http://www.user.tu-berlin.de/sebastian.bress).
+[Steffen Zeuch](https://www.user.tu-berlin.de/zeuchste/).
 {: class="lead text-justify"}
 
 My research interests are data management using modern hardware and distributed systems.
 Currently I am investigating how we can use fast, next-generation interconnects such as NVLink to scale data management on GPUs.
 {: class="text-justify"}
 
-Before coming to DFKI,
+Previously, I worked as a researcher at [DFKI](https://www.dfki.berlin).
+Before starting my PhD studies,
 I received my MSc degree from
 [ETH Zurich](https://www.ethz.ch/en.html)
 in collaboration with
@@ -49,7 +52,7 @@ during my Bachelor's studies at ETH Zurich.
 </abbr>
 </div>
 <div class="col-xs-10">
-<a href="mailto:clemens.lutz@dfki.de">clemens.lutz@dfki.de</a>
+<a href="mailto:clemens.lutz@tu-berlin.de">clemens.lutz@tu-berlin.de</a>
 </div>
 </div>
 <div class="row">
@@ -69,9 +72,11 @@ during my Bachelor's studies at ETH Zurich.
 </abbr>
 </div>
 <div class="col-xs-10">
-DFKI GmbH<br />
-Alt-Moabit 91c<br />
-10559 Berlin<br />
+DIMA<br />
+Faculty EECS (IV)<br />
+sec. E-N 7<br />
+Einsteinufer 17<br />
+10587 Berlin<br />
 Germany
 </div>
 </div>
@@ -82,8 +87,8 @@ Germany
 </abbr>
 </div>
 <div class="col-xs-10">
-DFKI <i class="fa fa-caret-right"></i> G.5.007<br />
-TU Berlin <i class="fa fa-caret-right"></i> EN 739
+TU Berlin <i class="fa fa-caret-right"></i> E-N 739<br />
+DFKI <i class="fa fa-caret-right"></i> G.5.007
 </div>
 </div>
 </div>

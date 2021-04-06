@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 #### Site Settings ####
 # http://docs.getpelican.com/en/3.6.3/settings.html
 AUTHOR = 'Clemens Lutz'
-SITENAME = 'Clemens Lutz | DFKI'
+SITENAME = 'Clemens Lutz | TU Berlin'
 
 # The published SITEURL is set in publishconf.py
 SITEURL = 'https://alain.cml.li'
@@ -63,8 +63,7 @@ AUTHOR_FEED_RSS = None
 
 
 # Blogroll
-LINKS = (('IAM | DFKI', 'https://www.dfki.de/en/web/research/research-departments-and-groups/intelligent-analytics-for-massive-data/'),
-        ('DIMA | TU Berlin', 'https://www.dima.tu-berlin.de'),
+LINKS = (('DIMA | TU Berlin', 'https://www.dima.tu-berlin.de'),
         ('ORCID', 'https://orcid.org/0000-0002-6193-4734'),)
 
 # Social widget
