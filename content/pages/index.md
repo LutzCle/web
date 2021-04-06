@@ -102,6 +102,25 @@ DFKI <i class="fa fa-caret-right"></i> G.5.007
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+16 Mar 2021
+</dt>
+<dd>
+Our paper on <a href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><em>Fast
+CSV Loading Using GPUs and RDMA for In-Memory Data Processing</em></a> has been
+awarded the <a
+href="https://dl.gi.de/bitstream/handle/20.500.12116/35792/A1-1.pdf"><strong>BTW
+Reproducibility Badge</strong></a>.
+</dd>
+
+<dt>
+23 Nov 2020
+</dt>
+<dd>
+I gave a talk on <em>Scalable Co-processing using GPUs with Fast Interconnects</em>
+at the <a href="https://www.epfl.ch/labs/dias/"><strong>EPFL DIAS Lab</strong></a>.
+</dd>
+
+<dt>
 20 Nov 2020
 </dt>
 <dd>
@@ -167,25 +186,6 @@ href="https://sigmod.org/sigmod-awards/sigmod-best-paper-award"><strong>SIGMOD B
 Award</strong></a>.
 </dd>
 
-<dt>
-14 Mar 2020
-</dt>
-<dd>
-Our work on <a
-href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects_slides.pdf"><em>Pump
-Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
-has been <a href="https://sigmod2020.org"><strong>accepted at SIGMOD'20</strong></a>.
-</dd>
-
-<dt>
-6 Feb 2020
-</dt>
-<dd>
-I gave a talk on <em>Scalable GPU Co-Processing with Fast Interconnects</em> at
-the <a href="https://lsds.doc.ic.ac.uk"><strong>Imperial College Large-Scale
-Data & Systems group</strong></a>.
-</dd>
-
 </dl>
 
 ***
@@ -194,6 +194,8 @@ Data & Systems group</strong></a>.
 <dl markdown=1 class="dl-horizontal">
 <dt>
 <span class="label label-primary">BTW'21</span><br class="hidden-xs" />
+<span class="label label-warning"><i class="fa fa-trophy"></i>&nbsp;Reproducible</span>
+<br class="hidden-xs" />
 <a class="label label-default" href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 </dt>
 <dd>
@@ -204,7 +206,7 @@ Alexander Kumaigorodski, Clemens Lutz, Volker Markl, to appear in
 
 <dt>
 <span class="label label-primary">SIGMOD'20</span><br class="hidden-xs" />
-<a class="label label-warning" href="https://sigmod2020.org/sigmod_awards.shtml"><i class="fa fa-star"></i>&nbsp;Best Paper</a>
+<a class="label label-warning" href="https://sigmod2020.org/sigmod_awards.shtml"><i class="fa fa-trophy"></i>&nbsp;Best Paper</a>
 <br class="hidden-xs" />
 <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 <a class="label label-default" href="https://e2data.eu/blog/fast-gpu-interconnects"><i class="fa fa-pencil"></i>&nbsp;Blog</a>
