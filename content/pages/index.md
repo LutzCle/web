@@ -200,8 +200,8 @@ Award</strong></a>.
 </dt>
 <dd>
 <strong>Fast CSV Loading Using GPUs and RDMA for In-Memory Data Processing</strong>
-Alexander Kumaigorodski, Clemens Lutz, Volker Markl, to appear in
-<em>Database Systems for Business, Technology and Web</em>, September 20–24, 2021, Dresden, Germany.
+Alexander Kumaigorodski, Clemens Lutz, Volker Markl, in
+<em>Database Systems for Business, Technology and Web</em>, April 19th - June 21st, 2021, Dresden, Germany.
 </dd>
 
 <dt>
