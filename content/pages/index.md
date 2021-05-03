@@ -102,6 +102,17 @@ DFKI <i class="fa fa-caret-right"></i> G.5.007
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+19 Apr 2021
+</dt>
+<dd>
+We have received the <a
+href="https://fb-dbis.gi.de/auszeichnungen/btw-best-paper-awards"><strong>BTW
+Best Paper</strong></a> award for our work on <a
+href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><em>Fast CSV Loading Using
+GPUs and RDMA for In-Memory Data Processing</em></a>.
+</dd>
+
+<dt>
 16 Mar 2021
 </dt>
 <dd>
@@ -194,6 +205,8 @@ Award</strong></a>.
 <dl markdown=1 class="dl-horizontal">
 <dt>
 <span class="label label-primary">BTW'21</span><br class="hidden-xs" />
+<a class="label label-warning" href="https://fb-dbis.gi.de/auszeichnungen/btw-best-paper-awards"><i class="fa fa-trophy"></i>&nbsp;Best Paper</a>
+<br class="hidden-xs" />
 <span class="label label-warning"><i class="fa fa-trophy"></i>&nbsp;Reproducible</span>
 <br class="hidden-xs" />
 <a class="label label-default" href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
