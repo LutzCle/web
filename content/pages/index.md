@@ -221,6 +221,8 @@ Alexander Kumaigorodski, Clemens Lutz, Volker Markl, in
 <span class="label label-primary">SIGMOD'20</span><br class="hidden-xs" />
 <a class="label label-warning" href="https://sigmod2020.org/sigmod_awards.shtml"><i class="fa fa-trophy"></i>&nbsp;Best Paper</a>
 <br class="hidden-xs" />
+<a class="label label-warning" href="https://dl.acm.org/doi/10.1145/3318464.3389705"><i class="fa fa-trophy"></i>&nbsp;Reproducible</a>
+<br class="hidden-xs" />
 <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 <a class="label label-default" href="https://e2data.eu/blog/fast-gpu-interconnects"><i class="fa fa-pencil"></i>&nbsp;Blog</a>
 <br class="hidden-xs" />
