@@ -62,7 +62,7 @@ during my Bachelor's studies at ETH Zurich.
 </abbr>
 </div>
 <div class="col-xs-10">
-+49 30 23895 1855
++49 30 314 23515
 </div>
 </div>
 <div class="row">
@@ -87,8 +87,7 @@ Germany
 </abbr>
 </div>
 <div class="col-xs-10">
-TU Berlin <i class="fa fa-caret-right"></i> E-N 739<br />
-DFKI <i class="fa fa-caret-right"></i> G.5.007
+TU Berlin <i class="fa fa-caret-right"></i> E-N 709
 </div>
 </div>
 </div>
