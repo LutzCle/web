@@ -247,7 +247,7 @@ Steffen Zeuch, Bonaventura Del Monte, Jeyhun Karimov, Clemens Lutz, Manuel Renz,
 <dt>
 <span class="label label-primary">Datenbanken Spektrum</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/datenbanken_spektrum_2018_efficient_and_scalable_kmeans_on_gpus_accepted_manuscript.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
-<a class="label label-default" href="https://e2data.eu/blog/showcasing-the-potential-of-gpu-acceleration-in-data-analytics"><i class="fa fa-pencil"></i>&nbsp;Blog</a>
+<a class="label label-default" href="https://web.archive.org/web/20201229210251/https://e2data.eu/blog/showcasing-the-potential-of-gpu-acceleration-in-data-analytics"><i class="fa fa-pencil"></i>&nbsp;Blog</a>
 <a class="label label-default" href="https://github.com/TU-Berlin-DIMA/CL-kmeans"><i class="fa fa-github"></i>&nbsp;Code</a>
 </dt>
 <dd>
