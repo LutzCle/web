@@ -102,6 +102,17 @@ DFKI <i class="fa fa-caret-right"></i> G.5.007
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+21 Jun 2021
+</dt>
+<dd>
+Our short paper on <a
+href="pdfs/damon_2021_energy_efficient_stream_join.pdf"><em>An Energy-Efficient
+Stream Join for the Internet of Things</em></a> has been <a
+href="https://sites.google.com/view/damon2021/"><strong>published at
+DaMoN'21</strong></a>. My congrats to Adrian Michalke!
+</dd>
+
+<dt>
 19 Apr 2021
 </dt>
 <dd>
@@ -203,6 +214,16 @@ Award</strong></a>.
 #### Publications
 
 <dl markdown=1 class="dl-horizontal">
+
+<dt>
+<span class="label label-primary">DaMoN'21</span><br class="hidden-xs" />
+<a class="label label-default" href="pdfs/damon_2021_energy_efficient_stream_join.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
+</dt>
+<dd>
+<strong>An Energy-Efficient Stream Join for the Internet of Things</strong>
+Adrian Michalke, Philipp M. Grulich, Clemens Lutz, Steffen Zeuch, Volker Markl, in the 17th <em>ACM Int. Workshop on Data Management on New Hardware (DaMoN'21), held online with SIGMOD/PODS</em>, June 21st, 2021.
+</dd>
+
 <dt>
 <span class="label label-primary">BTW'21</span><br class="hidden-xs" />
 <a class="label label-warning" href="https://fb-dbis.gi.de/auszeichnungen/btw-best-paper-awards"><i class="fa fa-trophy"></i>&nbsp;Best Paper</a>
