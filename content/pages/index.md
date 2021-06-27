@@ -223,7 +223,7 @@ Alexander Kumaigorodski, Clemens Lutz, Volker Markl, in
 <a class="label label-warning" href="https://dl.acm.org/doi/10.1145/3318464.3389705"><i class="fa fa-trophy"></i>&nbsp;Reproducible</a>
 <br class="hidden-xs" />
 <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
-<a class="label label-default" href="https://e2data.eu/blog/fast-gpu-interconnects"><i class="fa fa-pencil"></i>&nbsp;Blog</a>
+<a class="label label-default" href="{filename}/20200507_fast_interconnects/fast_interconnects.md"><i class="fa fa-pencil"></i>&nbsp;Blog</a>
 <br class="hidden-xs" />
 <a class="label label-default" href="https://youtu.be/HAFBkNLGOhI"><i class="fa fa-youtube-play"></i>&nbsp;YouTube</a>
 <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects_slides.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
