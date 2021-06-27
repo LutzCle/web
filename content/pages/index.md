@@ -113,6 +113,21 @@ DaMoN'21</strong></a>. My congrats to Adrian Michalke!
 </dd>
 
 <dt>
+18 Jun 2021
+</dt>
+<dd>
+Our paper on <a
+href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><em>Pump
+Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
+has been awarded the <a
+href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced"><strong>SIGMOD
+Reproducibility badge</strong></a>. You can see the badge <a
+href="https://dl.acm.org/doi/10.1145/3318464.3389705">in the ACM DL</a>. Thanks
+to Apostolos Planas for helping to prepare the reproducibility submission, and
+to the reviewers for their efforts in reproducing our work!
+</dd>
+
+<dt>
 19 Apr 2021
 </dt>
 <dd>
@@ -170,42 +185,6 @@ fa-youtube-play"></i>&nbsp;YouTube</a>.
 <dd>
 I gave a talk on <em>Processing Large Data on GPUs with Fast Interconnects</em>
 at <a href="https://www.snowflake.com"><strong>Snowflake</strong></a>.
-</dd>
-
-<dt>
-17 Jun 2020
-</dt>
-<dd>
-I <strong>presented</strong> our work on <a
-href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><em>Pump
-Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
-<a href="https://www.sigmod2020online.org"><strong>at SIGMOD'20</strong></a>.
-Check out the talk on <a class="label label-default"
-href="https://vimeo.com/441072118#t=2239s"><i class="fa
-fa-vimeo-square"></i>&nbsp;Vimeo</a> and my recording on <a class="label
-label-default" href="https://youtu.be/HAFBkNLGOhI"><i class="fa
-fa-youtube-play"></i>&nbsp;YouTube</a>.
-</dd>
-
-<dt>
-20 May 2020
-</dt>
-<dd>
-I gave a talk on <em>Processing Large Data on GPUs with Fast Interconnects</em>
-at the <a href="https://hpi.de/en/rabl/home.html"><strong>HPI Data Engineering
-Systems group</strong></a>.
-</dd>
-
-<dt>
-18 May 2020
-</dt>
-<dd>
-Our paper on <a
-href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><em>Pump
-Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
-received the <a
-href="https://sigmod.org/sigmod-awards/sigmod-best-paper-award"><strong>SIGMOD Best Paper
-Award</strong></a>.
 </dd>
 
 </dl>
