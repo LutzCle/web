@@ -157,44 +157,6 @@ href="https://dl.gi.de/bitstream/handle/20.500.12116/35792/A1-1.pdf"><strong>BTW
 Reproducibility Badge</strong></a>.
 </dd>
 
-<dt>
-23 Nov 2020
-</dt>
-<dd>
-I gave a talk on <em>Scalable Co-processing using GPUs with Fast Interconnects</em>
-at the <a href="https://www.epfl.ch/labs/dias/"><strong>EPFL DIAS Lab</strong></a>.
-</dd>
-
-<dt>
-20 Nov 2020
-</dt>
-<dd>
-Our work on <a href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><em>Fast
-CSV Loading Using GPUs and RDMA for In-Memory Data Processing</em></a> has been
-<a href="https://sites.google.com/view/btw-2021-tud/"><strong>accepted at
-BTW'21</strong></a>.
-</dd>
-
-<dt>
-31 Jul 2020
-</dt>
-<dd>
-I gave a talk on <em>Processing Large Data on GPUs with Fast Interconnects</em>
-at the <a
-href="https://www.cwi.nl/research/groups/database-architectures"><strong>CWI
-Database Architectures group</strong></a>. The talk is available on <a
-class="label label-default" href="https://youtu.be/fRaH4h7-45s"><i class="fa
-fa-youtube-play"></i>&nbsp;YouTube</a>.
-</dd>
-
-<dt>
-9 Jul 2020
-</dt>
-<dd>
-I gave a talk on <em>Processing Large Data on GPUs with Fast Interconnects</em>
-at <a href="https://www.snowflake.com"><strong>Snowflake</strong></a>.
-</dd>
-
 </dl>
 
 ***
