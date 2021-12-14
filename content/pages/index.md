@@ -101,6 +101,15 @@ TU Berlin <i class="fa fa-caret-right"></i> E-N 709
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+14 Dec 2021
+</dt>
+<dd>
+Our paper on the <em>Triton Join: Efficiently Scaling to a Large Join State on
+GPUs with Fast Interconnects</em> has been accepted for <strong>SIGMOD
+2022</strong>!
+</dd>
+
+<dt>
 21 Jun 2021
 </dt>
 <dd>
@@ -192,6 +201,16 @@ at <a href="https://www.snowflake.com"><strong>Snowflake</strong></a>.
 #### Publications
 
 <dl markdown=1 class="dl-horizontal">
+
+<dt>
+<span class="label label-primary">SIGMOD'22</span><br class="hidden-xs" />
+<!-- <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a> -->
+</dt>
+<dd>
+<strong>Triton Join: Efficiently Scaling to a Large Join State on GPUs with Fast Interconnects</strong>
+Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl, accepted for the
+<em>ACM International Conference on Management of Data</em>, June 12–17, 2022, Philadelphia, PA, USA.
+</dd>
 
 <dt>
 <span class="label label-primary">DaMoN'21</span><br class="hidden-xs" />
