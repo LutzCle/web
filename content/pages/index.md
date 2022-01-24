@@ -104,9 +104,10 @@ TU Berlin <i class="fa fa-caret-right"></i> E-N 709
 14 Dec 2021
 </dt>
 <dd>
-Our paper on the <em>Triton Join: Efficiently Scaling to a Large Join State on
-GPUs with Fast Interconnects</em> has been accepted for <strong>SIGMOD
-2022</strong>!
+Our paper on the <a
+href="pdfs/sigmod_2022_efficiently_scaling_to_a_large_join_state_on_gpus_with_fast_interconnects.pdf"><em>Triton
+Join: Efficiently Scaling to a Large Join State on GPUs with Fast
+Interconnects</em></a> has been accepted for <strong>SIGMOD 2022</strong>!
 </dd>
 
 <dt>
@@ -166,7 +167,7 @@ Reproducibility Badge</strong></a>.
 
 <dt>
 <span class="label label-primary">SIGMOD'22</span><br class="hidden-xs" />
-<!-- <a class="label label-default" href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a> -->
+<a class="label label-default" href="pdfs/sigmod_2022_efficiently_scaling_to_a_large_join_state_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 </dt>
 <dd>
 <strong>Triton Join: Efficiently Scaling to a Large Join State on GPUs with Fast Interconnects</strong>
