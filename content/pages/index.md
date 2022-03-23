@@ -21,7 +21,7 @@ My research interests are data management using modern hardware and distributed 
 Currently I am investigating how we can use fast, next-generation interconnects such as NVLink to scale data management on GPUs.
 {: class="text-justify"}
 
-Previously, I worked as a researcher at [DFKI](https://www.dfki.berlin).
+Previously, I worked as a researcher at [DFKI](https://www.dfki.de/en/web/research/research-departments/intelligent-analytics-for-massive-data).
 Before starting my PhD studies,
 I received my MSc degree from
 [ETH Zurich](https://www.ethz.ch/en.html)
