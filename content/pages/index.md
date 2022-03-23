@@ -178,6 +178,9 @@ Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl, accept
 <dt>
 <span class="label label-primary">DaMoN'21</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/damon_2021_energy_efficient_stream_join.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
+<a class="label label-default" href="https://github.com/TU-Berlin-DIMA/ecoJoin"><i class="fa fa-github"></i>&nbsp;Code</a>
+<br class="hidden-xs" />
+<a class="label label-default" href="pdfs/damon_2021_energy_efficient_stream_join_slides.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
 </dt>
 <dd>
 <strong>An Energy-Efficient Stream Join for the Internet of Things</strong>
