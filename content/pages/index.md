@@ -194,6 +194,7 @@ Adrian Michalke, Philipp M. Grulich, Clemens Lutz, Steffen Zeuch, Volker Markl, 
 <span class="label label-warning"><i class="fa fa-trophy"></i>&nbsp;Reproducible</span>
 <br class="hidden-xs" />
 <a class="label label-default" href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
+<a class="label label-default" href="pdfs/btw_2021_fast_csv_loading_using_gpus_slides.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
 </dt>
 <dd>
 <strong>Fast CSV Loading Using GPUs and RDMA for In-Memory Data Processing</strong>
