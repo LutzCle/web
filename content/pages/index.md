@@ -101,6 +101,15 @@ TU Berlin <i class="fa fa-caret-right"></i> E-N 709
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+18 Mar 2022
+</dt>
+<dd>
+Apostolos Planas <strong>defended his MSc thesis</strong> on <a
+href="pdfs/msc_thesis_apostolos_planas.pdf"><em>Cooperative Heterogeneous Query
+Execution</em></a>. Congrats!
+</dd>
+
+<dt>
 14 Dec 2021
 </dt>
 <dd>
@@ -283,6 +292,14 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014
 ##### Thesis Supervision
 
 <dl markdown=1 class="dl-horizontal">
+
+<dt>
+<a class="label label-default" href="pdfs/msc_thesis_apostolos_planas.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
+</dt>
+<dd>
+Cooperative Heterogeneous Query Execution.
+<strong>Apostolos Planas</strong>, MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, February 2022
+</dd>
 
 <dt>
 <a class="label label-default" href="pdfs/msc_thesis_alexander_kumaigorodski.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
