@@ -67,7 +67,7 @@ LINKS = (('DIMA | TU Berlin', 'https://www.dima.tu-berlin.de'),
         ('ORCID', 'https://orcid.org/0000-0002-6193-4734'),)
 
 # Social widget
-SOCIAL = (('linkedin', 'https://www.linkedin.com/in/clemenslutz'),
+SOCIAL = (('linkedin', 'https://de.linkedin.com/in/clemenslutz'),
           ('github', 'https://github.com/lutzcle'),)
 
 # Pelican plugins

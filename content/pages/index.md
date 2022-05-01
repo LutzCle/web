@@ -24,11 +24,11 @@ Currently I am investigating how we can use fast, next-generation interconnects 
 Previously, I worked as a researcher at [DFKI](https://www.dfki.de/en/web/research/research-departments/intelligent-analytics-for-massive-data).
 Before starting my PhD studies,
 I received my MSc degree from
-[ETH Zurich](https://www.ethz.ch/en.html)
+[ETH Zurich](https://ethz.ch/en.html)
 in collaboration with
 [IBM Research, Zurich](https://www.research.ibm.com/labs/zurich)
 under supervision of
-[Thomas R. Gross](http://www.lst.inf.ethz.ch/people/personal-pages/trg.html)
+[Thomas R. Gross](https://www.lst.inf.ethz.ch/people/personal-pages/trg.html)
 and
 [Animesh Trivedi](https://animeshtrivedi.github.io).
 My Master's was preceded by an exchange at

@@ -190,7 +190,7 @@ offline.)</small>
 
 <a id="5"> \[5\] [Intel, "A Milestone in Moving Data Compute Express Link Technology will Improve Performance and Remove Bottlenecks in Computation-Intensive Workloads"](https://newsroom.intel.com/editorials/milestone-moving-data)
 
-<a id="6"> \[6\] [Top500.org, "Highlights of the 54th edition of the TOP500"](https://www.top500.org/lists/2019/11/highs/)
+<a id="6"> \[6\] [Top500.org, "Highlights of the 54th edition of the TOP500"](https://www.top500.org/lists/top500/2019/11/highs/)
 
 <a id="7"> \[7\] [Deloitte, "Hitting the accelerator: the next generation of machine-learning chips"](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/technologymediatelecommunications/gx-deloitte-tmt-2018-nextgen-machine-learning-report.pdf)
 
