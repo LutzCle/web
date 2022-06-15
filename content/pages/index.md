@@ -201,6 +201,9 @@ Reproducibility Badge</strong></a>.
 <dt>
 <span class="label label-primary">SIGMOD'22</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/sigmod_2022_efficiently_scaling_to_a_large_join_state_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
+<a class="label label-default" href="https://github.com/TU-Berlin-DIMA/fast-interconnects"><i class="fa fa-github"></i>&nbsp;Code</a>
+<br class="hidden-xs" />
+<a class="label label-default" href="https://youtu.be/sOxvjcRE3OY"><i class="fa fa-youtube-play"></i>&nbsp;YouTube</a>
 </dt>
 <dd>
 <strong>Triton Join: Efficiently Scaling to a Large Join State on GPUs with Fast Interconnects</strong>
