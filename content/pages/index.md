@@ -101,6 +101,19 @@ TU Berlin <i class="fa fa-caret-right"></i> E-N 709
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+7&ndash;10 June 2022
+</dt>
+<dd>
+I was graciously invited to give a series of research talks on <em>Scalable
+Data Processing using GPUs with Fast Interconnects</em> at the <a
+href="http://dsg.csail.mit.edu"><strong>MIT Data Systems Group</strong></a>,
+the <a href="http://daslab.seas.harvard.edu"><strong>Harvard Data Systems
+Laboratory</strong></a>, and the <a href="https://sites.bu.edu/casp"><strong>
+Complex Analytics &amp; Scalable Processing Research Lab at Boston
+University</strong></a>.
+</dd>
+
+<dt>
 18 Mar 2022
 </dt>
 <dd>
