@@ -101,6 +101,17 @@ TU Berlin <i class="fa fa-caret-right"></i> E-N 709
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+15 June 2022
+</dt>
+<dd>
+<a href="https://doi.org/10.1145/3514221.3517911"><em>Our Triton join</em></a>
+is now <strong>published at SIGMOD 2022</strong>. Check out <a
+href="https://youtu.be/sOxvjcRE3OY">our talk</em></a> on YouTube. We've also <a
+href="https://github.com/TU-Berlin-DIMA/fast-interconnects"><em>released our
+code</em></a> on GitHub!
+</dd>
+
+<dt>
 7&ndash;10 June 2022
 </dt>
 <dd>
