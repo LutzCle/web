@@ -101,6 +101,38 @@ TU Berlin <i class="fa fa-caret-right"></i> E-N 709
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+14 December 2022
+</dt>
+<dd>
+My PhD thesis is now published in<a
+href="https://depositonce.tu-berlin.de/items/a5918658-8f85-4bb5-9668-cb043526b76a"><em>TU
+Berlin's institutional repository</em></a>.
+</dd>
+
+<dt>
+10 November 2022
+</dt>
+<dd>
+I successfully defended my PhD on <em>Scalable Data Management using GPUs with
+Fast Interconnects!</em>
+</dd>
+
+<dt>
+17&ndash;21 October 2022
+</dt>
+<dd>
+I was kindly invited to hold research talks on my PhD topic <em>Scalable Data
+Management using GPUs with Fast Interconnects</em> at the <a
+href="https://www.epfl.ch/labs/dias"><strong>EPFL DIAS Lab</strong></a>, the <a
+href="https://www.cwi.nl/research/groups/database-architectures"><strong>CWI
+Database Architectures Group</strong></a>, the <a
+href="https://www.vucompsys.net"><strong>CompSys Section at VU
+Amsterdam</strong></a>, and the <a
+href="https://hpi.de/rabl/home.html"><strong>HPI Data Engineering Systems
+Group</strong></a>.
+</dd>
+
+<dt>
 15 June 2022
 </dt>
 <dd>
