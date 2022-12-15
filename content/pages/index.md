@@ -183,6 +183,16 @@ Interconnects</em></a> has been accepted for <strong>SIGMOD 2022</strong>!
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+<span class="label label-primary">PhD 2022</span><br class="hidden-xs" />
+<a class="label label-default" href="pdfs/phd_thesis_clemens_lutz.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
+<a class="label label-default" href="pdfs/phd_defense_clemens_lutz.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
+</dt>
+<dd>
+<strong>Scalable Data Management using GPUs with Fast Interconnects.</strong>
+Clemens Lutz, PhD thesis, Faculty IV, TU Berlin, Berlin, Germany, November 2022.
+</dd>
+
+<dt>
 <span class="label label-primary">SIGMOD'22</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/sigmod_2022_efficiently_scaling_to_a_large_join_state_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
 <a class="label label-default" href="https://github.com/TU-Berlin-DIMA/fast-interconnects"><i class="fa fa-github"></i>&nbsp;Code</a>
@@ -296,7 +306,7 @@ Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Clemens Lutz, Martin Schmatz, 
 </dt>
 <dd>
 <strong>Carafe: High-Performance, In-Memory Graph Processing with RDMA.</strong>
-Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014
+Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014.
 </dd>
 </dl>
 
