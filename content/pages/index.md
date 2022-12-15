@@ -175,54 +175,6 @@ Join: Efficiently Scaling to a Large Join State on GPUs with Fast
 Interconnects</em></a> has been accepted for <strong>SIGMOD 2022</strong>!
 </dd>
 
-<dt>
-21 Jun 2021
-</dt>
-<dd>
-Our short paper on <a
-href="pdfs/damon_2021_energy_efficient_stream_join.pdf"><em>An Energy-Efficient
-Stream Join for the Internet of Things</em></a> has been <a
-href="https://sites.google.com/view/damon2021/"><strong>published at
-DaMoN'21</strong></a>. My congrats to Adrian Michalke!
-</dd>
-
-<dt>
-18 Jun 2021
-</dt>
-<dd>
-Our paper on <a
-href="pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf"><em>Pump
-Up the Volume: Processing Large Data on GPUs with Fast Interconnects</em></a>
-has been awarded the <a
-href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced"><strong>SIGMOD
-Reproducibility badge</strong></a>. You can see the badge <a
-href="https://dl.acm.org/doi/10.1145/3318464.3389705">in the ACM DL</a>. Thanks
-to Apostolos Planas for helping to prepare the reproducibility submission, and
-to the reviewers for their efforts in reproducing our work!
-</dd>
-
-<dt>
-19 Apr 2021
-</dt>
-<dd>
-We have received the <a
-href="https://fb-dbis.gi.de/auszeichnungen/btw-best-paper-awards"><strong>BTW
-Best Paper</strong></a> award for our work on <a
-href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><em>Fast CSV Loading Using
-GPUs and RDMA for In-Memory Data Processing</em></a>.
-</dd>
-
-<dt>
-16 Mar 2021
-</dt>
-<dd>
-Our paper on <a href="pdfs/btw_2021_fast_csv_loading_using_gpus.pdf"><em>Fast
-CSV Loading Using GPUs and RDMA for In-Memory Data Processing</em></a> has been
-awarded the <a
-href="https://dl.gi.de/bitstream/handle/20.500.12116/35792/A1-1.pdf"><strong>BTW
-Reproducibility Badge</strong></a>.
-</dd>
-
 </dl>
 
 ***
