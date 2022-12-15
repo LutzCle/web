@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 #### Site Settings ####
 # http://docs.getpelican.com/en/3.6.3/settings.html
 AUTHOR = 'Clemens Lutz'
-SITENAME = 'Clemens Lutz | TU Berlin'
+SITENAME = 'Clemens Lutz, PhD'
 
 # The published SITEURL is set in publishconf.py
 SITEURL = 'https://alain.cml.li'

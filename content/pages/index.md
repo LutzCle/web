@@ -7,7 +7,7 @@ status: hidden
 <div markdown=1 class="row">
 <div class="col-xs-12 col-sm-12 col-md-8">
 
-PhD student and research associate at
+Recent PhD graduate of
 [TU Berlin](https://www.tu.berlin)
 mentored by
 [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl)
