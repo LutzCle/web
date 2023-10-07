@@ -80,6 +80,16 @@ Switzerland
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+29 September 2023
+</dt>
+<dd>
+Our paper on <em>Benchmarking Stream Join Algorithms on GPUs: A Framework and
+its Application to the State-of-the-art</em> has been accepted for <strong>EDBT
+2024</strong>! Congratulations to <a href="https://dpanugroho.github.io">Dwi
+Nugroho</a>, who led this work.
+</dd>
+
+<dt>
 14 December 2022
 </dt>
 <dd>
