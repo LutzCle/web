@@ -132,38 +132,6 @@ href="https://github.com/TU-Berlin-DIMA/fast-interconnects"><em>released our
 code</em></a> on GitHub!
 </dd>
 
-<dt>
-7&ndash;10 June 2022
-</dt>
-<dd>
-I was graciously invited to give a series of research talks on <em>Scalable
-Data Processing using GPUs with Fast Interconnects</em> at the <a
-href="http://dsg.csail.mit.edu"><strong>MIT Data Systems Group</strong></a>,
-the <a href="http://daslab.seas.harvard.edu"><strong>Harvard Data Systems
-Laboratory</strong></a>, and the <a href="https://sites.bu.edu/casp"><strong>
-Complex Analytics &amp; Scalable Processing Research Lab at Boston
-University</strong></a>.
-</dd>
-
-<dt>
-18 Mar 2022
-</dt>
-<dd>
-Apostolos Planas <strong>defended his MSc thesis</strong> on <a
-href="pdfs/msc_thesis_apostolos_planas.pdf"><em>Cooperative Heterogeneous Query
-Execution</em></a>. Congrats!
-</dd>
-
-<dt>
-14 Dec 2021
-</dt>
-<dd>
-Our paper on the <a
-href="pdfs/sigmod_2022_efficiently_scaling_to_a_large_join_state_on_gpus_with_fast_interconnects.pdf"><em>Triton
-Join: Efficiently Scaling to a Large Join State on GPUs with Fast
-Interconnects</em></a> has been accepted for <strong>SIGMOD 2022</strong>!
-</dd>
-
 </dl>
 
 ***
