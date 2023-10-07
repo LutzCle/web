@@ -268,6 +268,10 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014.
 </dl>
 
 ***
+#### Service
+
+- [ICDE 2024 Research Track PC Member](https://icde2024.github.io/CFP_research.html)
+
 #### Theses & Teaching
 
 ##### Thesis Supervision
