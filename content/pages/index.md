@@ -7,21 +7,22 @@ status: hidden
 <div markdown=1 class="row">
 <div class="col-xs-12 col-sm-12 col-md-8">
 
-Recent PhD graduate of
-[TU Berlin](https://www.tu.berlin)
-mentored by
-[Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl)
-and cooperating with
-[Tilmann Rabl](https://hpi.de/rabl/team/prof-dr-tilmann-rabl.html)
-and
-[Steffen Zeuch](https://www.user.tu-berlin.de/zeuchste/).
+Developer Technology Engineer at [NVIDIA](https://www.nvidia.com).
 {: class="lead text-justify"}
 
-My research interests are data management using modern hardware and distributed systems.
+My professional interests are data management using modern hardware and distributed systems.
 Currently I am investigating how we can use fast, next-generation interconnects such as NVLink to scale data management on GPUs.
 {: class="text-justify"}
 
-Previously, I worked as a researcher at [DFKI](https://www.dfki.de/en/web/research/research-departments/intelligent-analytics-for-massive-data).
+Previously, I successfully achieved my PhD in Computer Science at [TU Berlin](https://www.tu.berlin), where I was
+mentored by
+[Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl)
+and cooperated with
+[Tilmann Rabl](https://hpi.de/rabl/team/prof-dr-tilmann-rabl.html),
+Sebastian Breß, and
+[Steffen Zeuch](https://www.user.tu-berlin.de/zeuchste/).
+{: class="text-justify"}
+
 Before starting my PhD studies,
 I received my MSc degree from
 [ETH Zurich](https://ethz.ch/en.html)
@@ -52,17 +53,7 @@ during my Bachelor's studies at ETH Zurich.
 </abbr>
 </div>
 <div class="col-xs-10">
-<a href="mailto:clemens.lutz@tu-berlin.de">clemens.lutz@tu-berlin.de</a>
-</div>
-</div>
-<div class="row">
-<div class="col-xs-2 col-minimize">
-<abbr title="Phone">
-<i class="fa fa-phone"></i>
-</abbr>
-</div>
-<div class="col-xs-10">
-+49 30 314 23515
+<a href="mailto:clutz@nvidia.com">clutz@nvidia.com</a>
 </div>
 </div>
 <div class="row">
@@ -72,22 +63,10 @@ during my Bachelor's studies at ETH Zurich.
 </abbr>
 </div>
 <div class="col-xs-10">
-DIMA<br />
-Faculty EECS (IV)<br />
-sec. E-N 7<br />
-Einsteinufer 17<br />
-10587 Berlin<br />
-Germany
-</div>
-</div>
-<div class="row">
-<div class="col-xs-2 col-minimize">
-<abbr title="Room">
-<i class="fa fa-comments"></i>
-</abbr>
-</div>
-<div class="col-xs-10">
-TU Berlin <i class="fa fa-caret-right"></i> E-N 709
+NVIDIA<br />
+Europaallee 39<br />
+8004 Zurich<br />
+Switzerland
 </div>
 </div>
 </div>

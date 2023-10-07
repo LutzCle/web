@@ -63,7 +63,7 @@ AUTHOR_FEED_RSS = None
 
 
 # Blogroll
-LINKS = (('DIMA | TU Berlin', 'https://www.dima.tu-berlin.de'),
+LINKS = (('NVIDIA', 'https://www.nvidia.com'),
         ('ORCID', 'https://orcid.org/0000-0002-6193-4734'),)
 
 # Social widget
