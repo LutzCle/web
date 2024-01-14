@@ -140,6 +140,17 @@ code</em></a> on GitHub!
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+<span class="label label-primary">EDBT'24</span><br class="hidden-xs" />
+<a class="label label-default" href="pdfs/edbt_2024_benchmarking_stream_join_algorithms_on_gpus.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
+<a class="label label-default" href="https://github.com/TU-Berlin-DIMA/gpu-stream-join-benchmark"><i class="fa fa-github"></i>&nbsp;Code</a>
+</dt>
+<dd>
+<strong>Benchmarking Stream Join Algorithms on GPUs: A Framework and its Application to the State of the Art</strong>
+Dwi P. A. Nugroho, Philipp M. Grulich, Steffen Zeuch, Clemens Lutz, Stefano Bortoli, Volker Markl, accepted for the
+27th <em>International Conference on Extending Database Technology</em>, March 25–28, 2024, Paestum, Italy.
+</dd>
+
+<dt>
 <span class="label label-primary">PhD 2022</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/phd_thesis_clemens_lutz.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
 <a class="label label-default" href="pdfs/phd_defense_clemens_lutz.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
@@ -161,7 +172,7 @@ Clemens Lutz, PhD thesis, Faculty IV, TU Berlin, Berlin, Germany, November 2022.
 </dt>
 <dd>
 <strong>Triton Join: Efficiently Scaling to a Large Join State on GPUs with Fast Interconnects</strong>
-Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl, accepted for the
+Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl, in the
 <em>ACM International Conference on Management of Data</em>, June 12–17, 2022, Philadelphia, PA, USA.
 </dd>
 
