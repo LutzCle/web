@@ -16,7 +16,7 @@ Currently I am investigating how we can use fast, next-generation interconnects 
 
 Previously, I successfully achieved my PhD in Computer Science at [TU Berlin](https://www.tu.berlin), where I was
 mentored by
-[Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl)
+[Volker Markl](https://www.tu.berlin/dima/ueber-uns/prof-dr-volker-markl)
 and cooperated with
 [Tilmann Rabl](https://hpi.de/rabl/team/prof-dr-tilmann-rabl.html),
 Sebastian Breß, and
@@ -27,7 +27,7 @@ Before starting my PhD studies,
 I received my MSc degree from
 [ETH Zurich](https://ethz.ch/en.html)
 in collaboration with
-[IBM Research, Zurich](https://www.research.ibm.com/labs/zurich)
+[IBM Research, Zurich](https://www.zurich.ibm.com)
 under supervision of
 [Thomas R. Gross](https://www.lst.inf.ethz.ch/people/personal-pages/trg.html)
 and
@@ -37,7 +37,7 @@ My Master's was preceded by an exchange at
 where I wrote my BSc thesis under supervision of
 [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp)
 and
-[Paolo Costa](https://research.microsoft.com/en-us/um/people/pcosta),
+[Paolo Costa](https://www.microsoft.com/en-us/research/people/pcosta),
 during my Bachelor's studies at ETH Zurich.
 {: class="text-justify"}
 

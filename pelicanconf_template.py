@@ -67,7 +67,7 @@ LINKS = (('NVIDIA', 'https://www.nvidia.com'),
         ('ORCID', 'https://orcid.org/0000-0002-6193-4734'),)
 
 # Social widget
-SOCIAL = (('linkedin', 'https://de.linkedin.com/in/clemenslutz'),
+SOCIAL = (('linkedin', 'https://ch.linkedin.com/in/clemenslutz'),
           ('github', 'https://github.com/lutzcle'),)
 
 # Pelican plugins
