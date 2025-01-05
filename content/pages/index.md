@@ -118,32 +118,6 @@ I successfully defended my PhD on <em>Scalable Data Management using GPUs with
 Fast Interconnects!</em>
 </dd>
 
-<dt>
-17&ndash;21 October 2022
-</dt>
-<dd>
-I was kindly invited to hold research talks on my PhD topic <em>Scalable Data
-Management using GPUs with Fast Interconnects</em> at the <a
-href="https://www.epfl.ch/labs/dias"><strong>EPFL DIAS Lab</strong></a>, the <a
-href="https://www.cwi.nl/research/groups/database-architectures"><strong>CWI
-Database Architectures Group</strong></a>, the <a
-href="https://www.vucompsys.net"><strong>CompSys Section at VU
-Amsterdam</strong></a>, and the <a
-href="https://hpi.de/rabl/home.html"><strong>HPI Data Engineering Systems
-Group</strong></a>.
-</dd>
-
-<dt>
-15 June 2022
-</dt>
-<dd>
-<a href="https://doi.org/10.1145/3514221.3517911"><em>Our Triton join</em></a>
-is now <strong>published at SIGMOD 2022</strong>. Check out <a
-href="https://youtu.be/sOxvjcRE3OY">our talk</em></a> on YouTube. We've also <a
-href="https://github.com/TU-Berlin-DIMA/fast-interconnects"><em>released our
-code</em></a> on GitHub!
-</dd>
-
 </dl>
 
 ***
