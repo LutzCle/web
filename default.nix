@@ -100,7 +100,7 @@ in
       runtimeInputs = [ website ] ++ (with pkgs; [ rsync ]) ++ (with pkgs.python312Packages; [ pelican ]);
       text = ''
         echo "Publishing content in: ${website}"
-        rsync -rv --checksum --copy-links --times --port=${ssh_port} ${website}/output/ ${ssh_user}@${ssh_host}:${ssh_target_dir}
+        rsync -rv --checksum --copy-links --delete --times --port=${ssh_port} ${website}/output/ ${ssh_user}@${ssh_host}:${ssh_target_dir}
       '';
     };
 }
