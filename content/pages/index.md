@@ -5,7 +5,7 @@ save_as: index.html
 status: hidden
 
 <div markdown=1 class="row">
-<div class="col-xs-12 col-sm-12 col-md-8">
+<div markdown=1 class="col-xs-12 col-sm-12 col-md-8">
 
 Developer Technology Engineer at [NVIDIA](https://www.nvidia.com).
 {: class="lead text-justify"}
@@ -72,7 +72,7 @@ Switzerland
 </div>
 </div>
 <div markdown=1 class="row">
-<div class="col-sm-12">
+<div markdown=1 class="col-sm-12">
 
 ***
 #### News
