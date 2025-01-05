@@ -64,9 +64,10 @@ during my Bachelor's studies at ETH Zurich.
 </div>
 <div class="col-xs-10">
 NVIDIA<br />
-Europaallee 39<br />
-8004 Zurich<br />
-Switzerland
+2788 San Tomas Expy<br />
+Santa Clara<br />
+CA 95051<br />
+U.S.A.
 </div>
 </div>
 </div>
