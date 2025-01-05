@@ -81,6 +81,17 @@ U.S.A.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+8 April 2024
+</dt>
+<dd>
+Heads-up, I've relocated to <a
+href="https://nvidianews.nvidia.com/multimedia/santa-clara-headquarters">NVIDIA
+HQ in Santa Clara</a>. It's a great opportunity to work in-person with the
+DevTech Compute team members located here. Looking forward to avoiding the 9
+hour time zone shift for meetings!
+</dd>
+
+<dt>
 29 September 2023
 </dt>
 <dd>
