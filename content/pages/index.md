@@ -110,23 +110,6 @@ its Application to the State-of-the-art</em> has been accepted for <strong>EDBT
 Nugroho</a>, who led this work.
 </dd>
 
-<dt>
-14 December 2022
-</dt>
-<dd>
-My PhD thesis is now published in<a
-href="https://depositonce.tu-berlin.de/items/a5918658-8f85-4bb5-9668-cb043526b76a"><em>TU
-Berlin's institutional repository</em></a>.
-</dd>
-
-<dt>
-10 November 2022
-</dt>
-<dd>
-I successfully defended my PhD on <em>Scalable Data Management using GPUs with
-Fast Interconnects!</em>
-</dd>
-
 </dl>
 
 ***
