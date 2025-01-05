@@ -86,7 +86,7 @@ in
       runtimeInputs = [ website ] ++ (with pkgs.python312Packages; [ pelican ]);
       text = ''
         cache=$(mktemp -d)
-        echo "Publishing content in: ${website}"
+        echo "Rendering content in: ${website}"
         pelican ${website} --output ${website}/output --settings "${website}/${website.nixconf}.py" --listen --cache-path "$cache"
       '';
     };
@@ -99,7 +99,7 @@ in
       name = "publish-website.sh";
       runtimeInputs = [ website ] ++ (with pkgs; [ rsync ]) ++ (with pkgs.python312Packages; [ pelican ]);
       text = ''
-        echo "Rendering content in: ${website}"
+        echo "Publishing content in: ${website}"
         rsync -rv --checksum --copy-links --times --port=${ssh_port} ${website}/output/ ${ssh_user}@${ssh_host}:${ssh_target_dir}
       '';
     };
