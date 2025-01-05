@@ -81,6 +81,15 @@ U.S.A.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+20 April 2024
+</dt>
+<dd>
+I'm honored to announce that the ICDE program chairs have awarded me <a
+href="pdfs/icde_2024_outstanding_reviewer_award.pdf"><strong>Outstanding
+Reviewer</strong></a> for <a href="https://icde2024.github.io/">ICDE 2024</a>!
+</dd>
+
+<dt>
 8 April 2024
 </dt>
 <dd>
