@@ -81,6 +81,19 @@ U.S.A.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+28 February 2025
+</dt>
+<dd>
+The German Informatics Society has announced that they will grant me the <a
+href="https://www.conftool.net/btw2025/index.php?page=browseSessions&form_session=49"><strong>DBIS
+Dissertation Award</strong></a>. I'm deeply humbled by this recognition of my
+work. Next week at <a href="https://btw2025.gi.de">BTW 2025</a>, I will present
+<a
+href="pdfs/btw_2025_scalable_data_management_using_gpus_with_fast_interconnects.pdf">a
+short contribution</a> that summarizes my dissertation. Looking foward to BTW!
+</dd>
+
+<dt>
 26 January 2025
 </dt>
 <dd>
@@ -131,6 +144,17 @@ Nugroho</a>, who led this work.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+<span class="label label-primary">BTW'25</span><br class="hidden-xs" />
+<a class="label label-default" href="pdfs/btw_2025_scalable_data_management_using_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Short Paper</a>
+</dt>
+<dd>
+<strong>Scalable Data Management using GPUs with Fast
+Interconnects — A Brief Overview</strong>
+Clemens Lutz, in
+<em>Database Systems for Business, Technology and Web</em>, March 3–7, 2025, Bamberg, Germany.
+</dd>
+
+<dt>
 <span class="label label-primary">Springer</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/springer_scalable_data_management_for_future_hardware.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Book Chapter</a>
 </dt>
@@ -153,6 +177,8 @@ Dwi P. A. Nugroho, Philipp M. Grulich, Steffen Zeuch, Clemens Lutz, Stefano Bort
 </dd>
 
 <dt>
+<a class="label label-warning" href="https://fb-dbis.gi.de/auszeichnungen/btw-best-paper-awards"><i class="fa fa-trophy"></i>&nbsp;DBIS Dissertation Award</a>
+<br class="hidden-xs" />
 <span class="label label-primary">PhD 2022</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/phd_thesis_clemens_lutz.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
 <a class="label label-default" href="pdfs/phd_defense_clemens_lutz.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;Slides</a>
