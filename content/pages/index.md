@@ -81,6 +81,19 @@ U.S.A.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+26 January 2025
+</dt>
+<dd>
+Query processing on heterogeneous hardware is a big topic. That's why we are
+providing a background <a
+href="https://link.springer.com/chapter/10.1007/978-3-031-74097-8_2">in our new
+book chapter</a>, available to you with open access. The book is titled <a
+href="pdfs/springer_scalable_data_management_for_future_hardware.pdf">"Scalable
+Data Management for Future Hardware"</a> and includes many insights obtained
+from database research. Take a look!
+</dd>
+
+<dt>
 20 April 2024
 </dt>
 <dd>
@@ -116,6 +129,17 @@ Nugroho</a>, who led this work.
 #### Publications
 
 <dl markdown=1 class="dl-horizontal">
+
+<dt>
+<span class="label label-primary">Springer</span><br class="hidden-xs" />
+<a class="label label-default" href="pdfs/springer_scalable_data_management_for_future_hardware.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Book Chapter</a>
+</dt>
+<dd>
+<strong>Query Processing on Heterogeneous Hardware</strong> Anastasiia Kozar,
+Janis von Bleichert, Sebastian Breß, Philipp M. Grulich, Clemens Lutz, Tilmann
+Rabl, Viktor Rosenfeld, Jonas Traub, Steffen Zeuch, Volker Markl, book chapter,
+Springer, Cham, Switzerland, January 24, 2025.
+</dd>
 
 <dt>
 <span class="label label-primary">EDBT'24</span><br class="hidden-xs" />
