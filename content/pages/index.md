@@ -260,6 +260,7 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014.
 ***
 #### Service
 
+- [SIGMOD 2026 Research Track PC Member](https://2026.sigmod.org/org_sigmod_pc.shtml)
 - [SIGMOD 2025 Industry Track PC Member](https://2025.sigmod.org/org_industrial_pc.shtml)
 - [ICDE 2024 Research Track PC Member](https://icde2024.github.io/CFP_research.html)
 
