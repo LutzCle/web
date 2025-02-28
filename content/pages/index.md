@@ -178,7 +178,7 @@ Adrian Michalke, Philipp M. Grulich, Clemens Lutz, Steffen Zeuch, Volker Markl, 
 <dd>
 <strong>Fast CSV Loading Using GPUs and RDMA for In-Memory Data Processing</strong>
 Alexander Kumaigorodski, Clemens Lutz, Volker Markl, in
-<em>Database Systems for Business, Technology and Web</em>, April 19th - June 21st, 2021, Dresden, Germany.
+<em>Database Systems for Business, Technology and Web</em>, September 13–17, 2021, Dresden, Germany.
 </dd>
 
 <dt>
