@@ -124,7 +124,7 @@ Nugroho</a>, who led this work.
 </dt>
 <dd>
 <strong>Benchmarking Stream Join Algorithms on GPUs: A Framework and its Application to the State of the Art</strong>
-Dwi P. A. Nugroho, Philipp M. Grulich, Steffen Zeuch, Clemens Lutz, Stefano Bortoli, Volker Markl, accepted for the
+Dwi P. A. Nugroho, Philipp M. Grulich, Steffen Zeuch, Clemens Lutz, Stefano Bortoli, Volker Markl, in the
 27th <em>International Conference on Extending Database Technology</em>, March 25–28, 2024, Paestum, Italy.
 </dd>
 
