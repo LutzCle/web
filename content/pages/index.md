@@ -189,7 +189,7 @@ Dwi P. A. Nugroho, Philipp M. Grulich, Steffen Zeuch, Clemens Lutz, Stefano Bort
 </dd>
 
 <dt>
-<a class="label label-warning" href="https://fb-dbis.gi.de/auszeichnungen/btw-best-paper-awards"><i class="fa fa-trophy"></i>&nbsp;DBIS Dissertation Award</a>
+<a class="label label-warning" href="https://fb-dbis.gi.de/auszeichnungen/dissertationspreise"><i class="fa fa-trophy"></i>&nbsp;DBIS Dissertation Award</a>
 <br class="hidden-xs" />
 <span class="label label-primary">PhD 2022</span><br class="hidden-xs" />
 <a class="label label-default" href="pdfs/phd_thesis_clemens_lutz.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Thesis</a>
