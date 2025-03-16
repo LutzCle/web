@@ -81,6 +81,16 @@ U.S.A.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+17 March 2025
+</dt>
+<dd>
+I'll be at the NVIDIA GTC connect with experts session on <a
+href="https://www.nvidia.com/gtc/session-catalog/#/session/1727902842249001Awy8"><em>Accelerating
+Data Analytics Workflows on GPU Systems</em></a> on Tuesday. Feel free to drop
+by!
+</dd>
+
+<dt>
 16 March 2025
 </dt>
 <dd>
