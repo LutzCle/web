@@ -81,6 +81,17 @@ U.S.A.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+16 March 2025
+</dt>
+<dd>
+Our paper on <a
+href="pdfs/edbt_2025_efficiently_indexing_large_data_on_gpus_with_fast_interconnects.pdf"><em>Efficiently
+Indexing Large Data on GPUs with Fast Interconnects</em></a> has been published
+at <a href="https://edbticdt2025.upc.edu">EDBT'25</a>. My congratulations to
+Josef Schmeißer as first author!
+</dd>
+
+<dt>
 28 February 2025
 </dt>
 <dd>
@@ -132,6 +143,17 @@ hour time zone shift for meetings!
 #### Publications
 
 <dl markdown=1 class="dl-horizontal">
+
+<dt>
+<span class="label label-primary">EDBT'25</span><br class="hidden-xs" />
+<a class="label label-default" href="pdfs/edbt_2025_efficiently_indexing_large_data_on_gpus_with_fast_interconnects.pdf"><i class="fa fa-file-pdf-o"></i>&nbsp;Paper</a>
+<a class="label label-default" href="https://github.com/josefschmeisser/gpujoin"><i class="fa fa-github"></i>&nbsp;Code</a>
+</dt>
+<dd>
+<strong>Efficiently Indexing Large Data on GPUs with Fast Interconnects</strong>
+Josef Schmeißer, Clemens Lutz, Volker Markl, in the
+28th <em>International Conference on Extending Database Technology</em>, March 25–28, 2025, Barcelona, Spain.
+</dd>
 
 <dt>
 <span class="label label-primary">BTW'25</span><br class="hidden-xs" />
