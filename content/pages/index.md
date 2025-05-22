@@ -81,6 +81,19 @@ U.S.A.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+21 May 2025
+</dt>
+<dd>
+Together with Thomas Graves (NVIDIA), I'll be giving a talk at the <a
+href="https://www.databricks.com/dataaisummit">Databricks Data + AI Summit
+2025</a> in San Francisco. The talk is about <a
+href="https://www.databricks.com/dataaisummit/session/tracing-path-row-through-gpu-enabled-query-engine-grace-blackwell">"Tracing
+the Path of a Row Through a GPU-Enabled Query Engine on the Grace Blackwell
+Architecture"</a>, in which you'll get a first glimpse of our new prototype
+query engine.
+</dd>
+
+<dt>
 17 March 2025
 </dt>
 <dd>
