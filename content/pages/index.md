@@ -81,6 +81,15 @@ U.S.A.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+19 May 2026
+</dt>
+<dd>
+The SIGMOD 2026 PC chairs <a
+href="https://2026.sigmod.org/sigmod_awards.shtml">have awarded me Distinguished
+PC Member</a>. I'm very honored to receive this recognition!
+</dd>
+
+<dt>
 21 May 2025
 </dt>
 <dd>
@@ -345,8 +354,10 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014.
 ***
 #### Service
 
+- [VLDB 2026 Industrial Track PC Member](https://www.vldb.org/2026/call-for-industrial-track.html)
+- [SIGMOD 2026 Industrial Track PC Member](https://2026.sigmod.org/org_industrial_pc.shtml)
 - [SIGMOD 2026 Research Track PC Member](https://2026.sigmod.org/org_sigmod_pc.shtml)
-- [SIGMOD 2025 Industry Track PC Member](https://2025.sigmod.org/org_industrial_pc.shtml)
+- [SIGMOD 2025 Industrial Track PC Member](https://2025.sigmod.org/org_industrial_pc.shtml)
 - [ICDE 2024 Research Track PC Member](https://icde2024.github.io/CFP_research.html)
 
 #### Theses & Teaching
