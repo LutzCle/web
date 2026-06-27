@@ -349,16 +349,52 @@ Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Clemens Lutz, Martin Schmatz, 
 <strong>Carafe: High-Performance, In-Memory Graph Processing with RDMA.</strong>
 Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014.
 </dd>
+
 </dl>
 
 ***
 #### Service
 
-- [VLDB 2026 Industrial Track PC Member](https://www.vldb.org/2026/call-for-industrial-track.html)
-- [SIGMOD 2026 Industrial Track PC Member](https://2026.sigmod.org/org_industrial_pc.shtml)
-- [SIGMOD 2026 Research Track PC Member](https://2026.sigmod.org/org_sigmod_pc.shtml)
-- [SIGMOD 2025 Industrial Track PC Member](https://2025.sigmod.org/org_industrial_pc.shtml)
-- [ICDE 2024 Research Track PC Member](https://icde2024.github.io/CFP_research.html)
+<dl markdown=1 class="dl-horizontal">
+
+<dt>
+<span class="label label-primary">VLDB'26</span>
+</dt>
+<dd>
+<strong><a href="https://www.vldb.org/2026/call-for-industrial-track.html">Industrial Track PC Member</a></strong>
+</dd>
+
+<dt>
+<span class="label label-primary">SIGMOD'26</span>
+<a class="label label-warning" href="https://2026.sigmod.org/sigmod_awards.shtml"></i>&nbsp;Distinguished</a>
+</dt>
+<dd>
+<strong><a href="https://2026.sigmod.org/org_sigmod_pc.shtml">Research Track PC Member</a></strong>
+</dd>
+
+<dt>
+<span class="label label-primary">SIGMOD'26</span>
+</dt>
+<dd>
+<strong><a href="https://2026.sigmod.org/org_industrial_pc.shtml">Industrial Track PC Member</a></strong>
+</dd>
+
+<dt>
+<span class="label label-primary">SIGMOD'25</span>
+</dt>
+<dd>
+<strong><a href="https://2025.sigmod.org/org_industrial_pc.shtml">Industrial Track PC Member</a></strong>
+</dd>
+
+<dt>
+<span class="label label-primary">ICDE'24</span>
+<a class="label label-warning" href="pdfs/icde_2024_outstanding_reviewer_award.pdf"></i>&nbsp;Outstanding</a>
+</dt>
+<dd>
+<strong><a href="https://icde2024.github.io/CFP_research.html">Research Track PC Member</a></strong>
+</dd>
+
+</dl>
 
 #### Theses & Teaching
 
