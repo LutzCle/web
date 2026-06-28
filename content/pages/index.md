@@ -92,6 +92,51 @@ query engine.
 </dl>
 
 ***
+#### Service
+
+<dl markdown=1 class="dl-horizontal wide-left-rail">
+
+<dt>
+<span class="label label-primary">VLDB'26</span>
+</dt>
+<dd>
+<strong><a href="https://www.vldb.org/2026/call-for-industrial-track.html">Industrial Track PC Member</a></strong>
+</dd>
+
+<dt>
+<span class="label label-primary">SIGMOD'26</span>
+<a class="label label-warning" href="https://2026.sigmod.org/sigmod_awards.shtml"><i class="fa fa-trophy"></i>&nbsp;Distinguished Reviewer</a>
+</dt>
+<dd>
+<strong><a href="https://2026.sigmod.org/org_sigmod_pc.shtml">Research Track PC Member</a></strong>
+and <strong><a href="https://2026.sigmod.org/org_industrial_pc.shtml">Industrial Track PC Member</a></strong>
+</dd>
+
+<dt>
+<span class="label label-primary">SIGMOD'25</span>
+</dt>
+<dd>
+<strong><a href="https://2025.sigmod.org/org_industrial_pc.shtml">Industrial Track PC Member</a></strong>
+</dd>
+
+<dt>
+<span class="label label-primary">ICDE'24</span>
+<a class="label label-warning" href="pdfs/icde_2024_outstanding_reviewer_award.pdf"><i class="fa fa-trophy"></i>&nbsp;Outstanding Reviewer</a>
+</dt>
+<dd>
+<strong><a href="https://icde2024.github.io/CFP_research.html">Research Track PC Member</a></strong>
+</dd>
+
+</dl>
+
+<style>
+@media (min-width: 768px) {
+  .wide-left-rail dt { width: 220px; text-align: left; white-space: nowrap; }
+  .wide-left-rail dd { margin-left: 240px; }
+}
+</style>
+
+***
 #### Publications
 
 <dl markdown=1 class="dl-horizontal">
@@ -273,49 +318,6 @@ Clemens Lutz, MSc thesis, D-INFK, ETH Zurich, Zurich, Switzerland, October 2014.
 </dl>
 
 ***
-#### Service
-
-<dl markdown=1 class="dl-horizontal">
-
-<dt>
-<span class="label label-primary">VLDB'26</span>
-</dt>
-<dd>
-<strong><a href="https://www.vldb.org/2026/call-for-industrial-track.html">Industrial Track PC Member</a></strong>
-</dd>
-
-<dt>
-<span class="label label-primary">SIGMOD'26</span>
-<a class="label label-warning" href="https://2026.sigmod.org/sigmod_awards.shtml"></i>&nbsp;Distinguished</a>
-</dt>
-<dd>
-<strong><a href="https://2026.sigmod.org/org_sigmod_pc.shtml">Research Track PC Member</a></strong>
-</dd>
-
-<dt>
-<span class="label label-primary">SIGMOD'26</span>
-</dt>
-<dd>
-<strong><a href="https://2026.sigmod.org/org_industrial_pc.shtml">Industrial Track PC Member</a></strong>
-</dd>
-
-<dt>
-<span class="label label-primary">SIGMOD'25</span>
-</dt>
-<dd>
-<strong><a href="https://2025.sigmod.org/org_industrial_pc.shtml">Industrial Track PC Member</a></strong>
-</dd>
-
-<dt>
-<span class="label label-primary">ICDE'24</span>
-<a class="label label-warning" href="pdfs/icde_2024_outstanding_reviewer_award.pdf"></i>&nbsp;Outstanding</a>
-</dt>
-<dd>
-<strong><a href="https://icde2024.github.io/CFP_research.html">Research Track PC Member</a></strong>
-</dd>
-
-</dl>
-
 #### Theses & Teaching
 
 ##### Thesis Supervision
