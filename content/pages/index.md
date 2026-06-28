@@ -7,38 +7,25 @@ status: hidden
 <div markdown=1 class="row">
 <div markdown=1 class="col-xs-12 col-sm-12 col-md-8">
 
-Developer Technology Engineer at [NVIDIA](https://www.nvidia.com).
+Architecting the future of hardware-conscious data systems for the AI era.
 {: class="lead text-justify"}
 
-My professional interests are data management using modern hardware and distributed systems.
-Currently I am investigating how we can use fast, next-generation interconnects such as NVLink to scale data management on GPUs.
+I am a Senior Developer Technology Engineer at [NVIDIA](https://www.nvidia.com).
+My work focuses on building high-throughput query engines by eliminating data
+movement bottlenecks through GPU-native design and next-generation
+interconnects, primarily driving the architecture of
+[GQE](https://github.com/rapidsai/gqe).
 {: class="text-justify"}
 
-Previously, I successfully achieved my PhD in Computer Science at [TU Berlin](https://www.tu.berlin), where I was
-mentored by
-[Volker Markl](https://www.tu.berlin/dima/ueber-uns/prof-dr-volker-markl)
-and cooperated with
-[Tilmann Rabl](https://hpi.de/rabl/team/prof-dr-tilmann-rabl.html),
-Sebastian Breß, and
-[Steffen Zeuch](https://www.user.tu-berlin.de/zeuchste/).
-{: class="text-justify"}
-
-Before starting my PhD studies,
-I received my MSc degree from
-[ETH Zurich](https://ethz.ch/en.html)
-in collaboration with
-[IBM Research, Zurich](https://www.zurich.ibm.com)
-under supervision of
-[Thomas R. Gross](https://www.lst.inf.ethz.ch/people/personal-pages/trg.html)
-and
-[Animesh Trivedi](https://animeshtrivedi.github.io).
-My Master's was preceded by an exchange at
-[Imperial College London](https://www.imperial.ac.uk),
-where I wrote my BSc thesis under supervision of
-[Peter Pietzuch](https://www.doc.ic.ac.uk/~prp)
-and
-[Paolo Costa](https://www.microsoft.com/en-us/research/people/pcosta),
-during my Bachelor's studies at ETH Zurich.
+My expertise is rooted in my Ph.D. research on GPU-enabled data management at
+[TU Berlin](https://www.tu.berlin), where I was advised by [Volker
+Markl](https://www.tu.berlin/dima/ueber-uns/prof-dr-volker-markl) and closely
+collaborated with [Tilmann
+Rabl](https://hpi.de/rabl/team/prof-dr-tilmann-rabl.html), [Sebastian
+Breß](https://sebastian-bress.com/ueber-mich), and [Steffen
+Zeuch](https://www.user.tu-berlin.de/zeuchste/). Today at NVIDIA, I draw on that
+foundation to research and develop query engines that maximize hardware
+efficiency for modern data-intensive workloads.
 {: class="text-justify"}
 
 </div>
