@@ -68,6 +68,20 @@ U.S.A.
 <dl markdown=1 class="dl-horizontal">
 
 <dt>
+30 June 2026
+</dt>
+<dd>
+<a
+href="https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe">Our
+first blog post on NVIDIA GQE, an open source GPU Query Engine, is live!</a>
+GQE's role is to push the boundaries of GPU acceleration for databases while
+serving as a reference architecture that inspires and helps enterprise, open
+source, and research projects to adopt GPUs. <a
+href="https://github.com/rapidsai/gqe">You're welcome to check out GQE's source
+code on GitHub</a>.
+</dd>
+
+<dt>
 19 May 2026
 </dt>
 <dd>
